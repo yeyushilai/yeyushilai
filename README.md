@@ -2,6 +2,8 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-yeyushilai-blue?logo=github)](https://github.com/yeyushilai)
 [![Gitee](https://img.shields.io/badge/Gitee-yeyushilai-red?logo=gitee)](https://gitee.com/yeyushilai)
+[![Docker](https://img.shields.io/badge/Docker-yeyushilai-2496ED?logo=docker&logoColor=white)](https://hub.docker.com/u/yeyushilai)
+[![Postman](https://img.shields.io/badge/Postman-yeyushilai-FF6C37?logo=postman&logoColor=white)](https://www.postman.com/yeyushilai)
 
 > 🏢 Sangfor Technologies  |  📍 Wuhan, China  |  🎣 Fishing Enthusiast
 
