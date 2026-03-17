@@ -12,7 +12,7 @@
 I bridge **Cloud Infrastructure** and **AI Applications**.
 
 - 🌐 **GitHub**: Virtualization, Cloud Migration & Storage Management
-- 🇨 **Gitee**: LLM Ops, RAG Systems & Agent Workflows
+- 🌐 **Gitee**: LLM Ops, RAG Systems & Agent Workflows
 
 ---
 
