@@ -5,7 +5,7 @@
 [![Docker](https://img.shields.io/badge/Docker-yeyushilai-2496ED?logo=docker&logoColor=white)](https://hub.docker.com/u/yeyushilai)
 [![Postman](https://img.shields.io/badge/Postman-yeyushilai-FF6C37?logo=postman&logoColor=white)](https://www.postman.com/yeyushilai)
 
-> 🏢 Sangfor Technologies  |  📍 Wuhan, China  |  🎣 Fishing Enthusiast
+> 📍 Wuhan, China  |  🎣 Fishing Enthusiast
 
 ---
 
