@@ -44,7 +44,7 @@ I bridge **Cloud Infrastructure** and **AI Applications**.
 ## 📫 Connect
 
 - 📧 **Email:** john.young@foxmail.com
-- 🐦 **Weibo:** [@yeyushilai](https://weibo.com/yeyushilai)
+- 🐦 **X:** [@yeyushilai](https://x.com/yeyushilai)
 - 🌐 **Website:** [yeyushilai.com](https://www.yeyushilai.com)
 
 ---
