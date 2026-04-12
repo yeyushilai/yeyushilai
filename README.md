@@ -33,14 +33,6 @@ I bridge **Cloud Infrastructure** and **AI Applications**.
 
 ---
 
-## 📊 GitHub Stats
-
-![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeyushilai&show_icons=true&theme=radical&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeyushilai&layout=compact&theme=radical)
-
----
-
 ## 📫 Connect
 
 - 📧 **Email:** john.young@foxmail.com
