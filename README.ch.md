@@ -42,31 +42,34 @@
 
 ## 技术能力矩阵
 ### 编程语言
-Python、Go、Perl、Shell
+Python、Go、Perl、Shell、Java、Node.js
 
 ### 企业级大模型工程化
-LangChain、LangGraph、LangSmith、LlamaIndex、Dify、RAG、Embedding模型、Prompt工程、Agent智能体、Multi-Agent多智能体协作、Sub-Agent子智能体、MCP、FastMCP
+LangChain、LangGraph、LangSmith、LlamaIndex、Dify、生产级RAG、Embedding向量模型、提示词工程、智能体工作流、多智能体协同、子智能体编排、MCP、FastMCP、私有化离线大模型部署
 
 ### 云计算 & 虚拟化 & 云原生
-KVM、QEMU、VMware、libvirt、virsh、VNC、Docker、K8s、Docker Compose、云与容器集群平台搭建
+KVM、QEMU、VMware、libvirt、virsh、VNC、Docker、Kubernetes(K8s)、Docker Compose、OpenStack、云平台搭建、跨平台虚拟机迁移、NBD网络块设备、iSCSI存储协议
 
 ### 系统架构设计
-领域驱动设计(DDD)、微服务架构、多年分布式系统架构设计落地经验
+领域驱动设计(DDD)、微服务架构、分布式系统设计、企业级架构性能优化落地
 
-### 开发工具链
-Pydantic、uv、Wire、Viper、Loguru、Zap
+### 开发工具链 & 通用SDK
+Pydantic、uv、Wire、Viper、Loguru、Zap、多语言通用工具SDK、标准化工程脚手架
 
 ### 后端服务开发
-Gin、go-zero、FastAPI、Django、协程、Swagger、JWT、Kafka、RabbitMQ、Celery异步任务、GORM ORM
+Gin、go-zero、FastAPI、Django、SpringBoot、DRF、Swagger接口文档、JWT鉴权、Kafka、RabbitMQ、Celery异步任务、GORM ORM、Spring Security安全框架
 
 ### 网络通信层
-TCP/UDP、HTTP/HTTPS、gRPC、WebSocket、RESTful API
+TCP/UDP、HTTP/HTTPS、gRPC、WebSocket、RESTful API、全栈交互式通信方案
 
-### 数据存储 & 缓存
-MySQL、PostgreSQL、Redis、Elasticsearch、ClickHouse、Milvus、Chroma、对象存储、块存储、文件存储、多级缓存架构
+### 数据库 & 缓存 & 存储
+MySQL、PostgreSQL、Redis、Elasticsearch、ClickHouse、Milvus、Chroma、Ceph分布式存储、对象存储、块存储、文件存储、多级缓存架构
 
-### 服务部署 & 网关 & 进程管理
-NGINX、HAProxy、WSGI、Uvicorn、uWSGI、Supervisor
+### 服务部署 & 网关 & 进程运维
+NGINX、HAProxy、WSGI、Uvicorn、uWSGI、Supervisor、CI/CD流水线、故障自愈与可观测体系
+
+### 全栈 & 低代码开发
+Vue2/Vue3、Element UI/Element Plus、低代码平台二次开发、企业后台管理系统定制、前后端分离架构
 
 ---
 
