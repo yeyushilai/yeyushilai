@@ -73,8 +73,9 @@ NGINX、HAProxy、WSGI、Uvicorn、uWSGI、Supervisor
 ## 商务联系方式
 - 中国邮箱：john.young@foxmail.com
 - 国际邮箱：john.young.eng@gmail.com
-- X（原Twitter）：[@yeyushilai](https://x.com/yeyushilai)
+- X：[@yeyushilai](https://x.com/yeyushilai)
 - FaceBook：[@yeyushilai](https://facebook.com/yeyushilai)
+- Instagram：[@yeyushilai](https://www.instagram.com/x.yeyushilai)
 - Gitee：[@yeyushilai](https://gitee.com/yeyushilai)
 - 个人官网：[yeyushilai.com](https://www.yeyushilai.com)
 
