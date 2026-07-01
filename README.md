@@ -62,7 +62,7 @@ Gin, go-zero, FastAPI, Django, SpringBoot, DRF, Swagger, JWT, Kafka, RabbitMQ, C
 ### Network Communication Layer
 TCP/UDP, HTTP/HTTPS, gRPC, WebSocket, RESTful API, Full-Stack Interactive Communication
 
-### Database, Vector Storage & Caching
+### Database & Caching
 MySQL, PostgreSQL, Redis, Elasticsearch, ClickHouse, Milvus, Chroma, Ceph, Object Storage, Block Storage, File Storage, Multi-Level Caching Architecture
 
 ### Service Deployment, Gateway & Process Management
