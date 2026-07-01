@@ -41,17 +41,32 @@
 ---
 
 ## 技术能力矩阵
-### 后端、云计算与云原生
+### 编程语言
+Python、Go、Perl、Shell
 
+### 企业级大模型工程化
+LangChain、LangGraph、LangSmith、LlamaIndex、Dify、RAG、Embedding模型、Prompt工程、Agent智能体、Multi-Agent多智能体协作、Sub-Agent子智能体、MCP、FastMCP
 
+### 云计算 & 虚拟化 & 云原生
+KVM、QEMU、VMware、libvirt、virsh、VNC、Docker、K8s、Docker Compose、云与容器集群平台搭建
 
-VMware | KVM | Docker | Kubernetes | 云平台 | 虚拟化存储 | 镜像迁移
+### 系统架构设计
+领域驱动设计(DDD)、微服务架构、多年分布式系统架构设计落地经验
 
-### 企业大模型工程
-LangChain · LangGraph · 商用检索增强生成(RAG) · 私有化大模型部署 · 多智能体系统
+### 开发工具链
+Pydantic、uv、Wire、Viper、Loguru、Zap
 
-### Web 与研发工具
-Gin | go-zero | WebSocket | 多语言SDK | 低代码平台二次开发
+### 后端服务开发
+Gin、go-zero、FastAPI、Django、协程、Swagger、JWT、Kafka、RabbitMQ、Celery异步任务、GORM ORM
+
+### 网络通信层
+TCP/UDP、HTTP/HTTPS、gRPC、WebSocket、RESTful API
+
+### 数据存储 & 向量数据库 & 缓存
+MySQL、PostgreSQL、Redis、Elasticsearch、ClickHouse、Milvus、Chroma、对象存储、块存储、文件存储、多级缓存架构
+
+### 服务部署 & 网关 & 进程管理
+NGINX、HAProxy、WSGI、Uvicorn、uWSGI、Supervisor
 
 ---
 
