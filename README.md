@@ -41,17 +41,35 @@ Key domains: enterprise admin systems, low-code AI platforms, source code struct
 ---
 
 ## Technical Competency Matrix
-### Backend, Cloud Computing & Cloud Native
+### Programming Languages
+Python, Go, Perl, Shell, Java, Node.js
 
+### Enterprise LLM & Agent Engineering
+LangChain, LangGraph, LangSmith, LlamaIndex, Dify, Production RAG, Embedding, Prompt Engineering, Agent Workflow, Multi-Agent Collaboration, Sub-Agent Orchestration, MCP, FastMCP, Offline Private LLM Deployment
 
+### Cloud, Virtualization & Cloud Native
+KVM, QEMU, VMware, libvirt, virsh, VNC, Docker, Kubernetes, Docker Compose, OpenStack, Cloud Platform Deployment, Cross-Platform VM Migration, Network Block Device (NBD), iSCSI
 
-VMware | KVM | Docker | Kubernetes | Cloud Platform | Virtual Storage | Image Migration
+### System Architecture Design
+Domain-Driven Design (DDD), Microservice Architecture, Distributed System Design, Enterprise-Level Structural Optimization
 
-### Enterprise LLM Engineering
-LangChain · LangGraph · Production RAG · On-Prem LLM Deployment · Multi-Agent Systems
+### Development Tooling & SDK
+Pydantic, uv, Wire, Viper, Loguru, Zap, Multi-Language Utility SDKs, Engineering Standard Scaffolding
 
-### Web & Developer Tooling
-Gin | go-zero | WebSocket | Multilingual SDK | Low-Code Platform Secondary Development
+### Backend Service Development
+Gin, go-zero, FastAPI, Django, SpringBoot, DRF, Swagger, JWT, Kafka, RabbitMQ, Celery Asynchronous Task, GORM ORM, Spring Security
+
+### Network Communication Layer
+TCP/UDP, HTTP/HTTPS, gRPC, WebSocket, RESTful API, Full-Stack Interactive Communication
+
+### Database, Vector Storage & Caching
+MySQL, PostgreSQL, Redis, Elasticsearch, ClickHouse, Milvus, Chroma, Ceph, Object Storage, Block Storage, File Storage, Multi-Level Caching Architecture
+
+### Service Deployment, Gateway & Process Management
+NGINX, HAProxy, WSGI, Uvicorn, uWSGI, Supervisor, CI/CD, Fault Tolerance & Observability
+
+### Full-Stack & Low-Code Engineering
+Vue2/Vue3, Element UI/Element Plus, Low-Code Platform Secondary Development, Enterprise Admin System Customization, Frontend-Backend Separation Architecture
 
 ---
 
