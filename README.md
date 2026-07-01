@@ -80,7 +80,7 @@ Vue2/Vue3, Element UI/Element Plus, Low-Code Platform Secondary Development, Ent
 - Facebook: [@yeyushilai](https://facebook.com/yeyushilai)
 - Instagram: [@yeyushilai](https://www.instagram.com/x.yeyushilai)
 - Gitee: [@yeyushilai](https://gitee.com/yeyushilai)
-- Personal Website: [yeyushilai.com](https://www.yeyushilai.com)
+- Website: [yeyushilai.com](https://www.yeyushilai.com)
 
 <p align="center">
 <em>Engineering reliable, scalable open-source systems for global technical teams.</em>

@@ -80,7 +80,7 @@ Vue2/Vue3、Element UI/Element Plus、低代码平台二次开发、企业后台
 - FaceBook：[@yeyushilai](https://facebook.com/yeyushilai)
 - Instagram：[@yeyushilai](https://www.instagram.com/x.yeyushilai)
 - Gitee：[@yeyushilai](https://gitee.com/yeyushilai)
-- 个人官网：[yeyushilai.com](https://www.yeyushilai.com)
+- 官网地址：[yeyushilai.com](https://www.yeyushilai.com)
 
 <p align="center">
 <em>为全球技术团队打造稳定、可扩展的开源工程系统。</em>
