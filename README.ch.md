@@ -62,7 +62,7 @@ Gin、go-zero、FastAPI、Django、协程、Swagger、JWT、Kafka、RabbitMQ、C
 ### 网络通信层
 TCP/UDP、HTTP/HTTPS、gRPC、WebSocket、RESTful API
 
-### 数据存储 & 向量数据库 & 缓存
+### 数据存储 & 缓存
 MySQL、PostgreSQL、Redis、Elasticsearch、ClickHouse、Milvus、Chroma、对象存储、块存储、文件存储、多级缓存架构
 
 ### 服务部署 & 网关 & 进程管理
@@ -71,8 +71,11 @@ NGINX、HAProxy、WSGI、Uvicorn、uWSGI、Supervisor
 ---
 
 ## 商务联系方式
-- 业务邮箱：john.young@foxmail.com
+- 中国邮箱：john.young@foxmail.com
+- 国际邮箱：john.young.eng@gmail.com
 - X（原Twitter）：[@yeyushilai](https://x.com/yeyushilai)
+- FaceBook：[@yeyushilai](https://facebook.com/yeyushilai)
+- Gitee：[@yeyushilai](https://gitee.com/yeyushilai)
 - 个人官网：[yeyushilai.com](https://www.yeyushilai.com)
 
 <p align="center">
